@@ -10,3 +10,4 @@
 1. First step
 2. Second step
 [Visit GitHub](https://github.com)
+#partners contribution 
